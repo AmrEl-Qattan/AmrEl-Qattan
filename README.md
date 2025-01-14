@@ -10,7 +10,7 @@ I specialize in creating stunning, user-friendly, and responsive web application
 
 ### 📂 Featured Projects
 - **[My Portfolio](https://www.amrelqattan.com)** - A showcase of my skills, projects, and experience.
-- **[E-Commerce App] (https://www.amrelqattan.com/ecommerce)** - A React-based application with dynamic product pages and cart functionality.
+- **[E-Commerce App](https://www.amrelqattan.com/ecommerce)** - A React-based application with dynamic product pages and cart functionality.
 - **Task Manager** - A Next.js application for managing tasks with a sleek UI.
 - **UI Component Library** - A reusable component library built with Tailwind CSS.
 
