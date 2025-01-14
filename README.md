@@ -17,3 +17,8 @@ I specialize in creating stunning, user-friendly, and responsive web application
 - **Website**: [amrelqattan.com](https://www.amrelqattan.com)
 - **LinkedIn**: [linkedin.com/in/amrelqattan](https://www.linkedin.com/in/amrelqattan)
 - **Email**: [admin@amrelqattan.com](mailto:admin@amrelqattan.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrelqattan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrelqattan&layout=compact&theme=radical)
