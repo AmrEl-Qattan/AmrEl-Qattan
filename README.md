@@ -16,6 +16,6 @@ I specialize in creating stunning, user-friendly, and responsive web application
 ### 💼 Get in Touch:
 - **Website**: [amrelqattan.com](https://www.amrelqattan.com)
 - **LinkedIn**: [linkedin.com/in/amrelqattan](https://www.linkedin.com/in/amrelqattan)
-- **Email**: [admin@amrelqattan.com](mailto:admin@amrelqattan.com)
+- **Email**: [career@amrelqattan.com](mailto:career@amrelqattan.com)
 ---
 ### ✨ Let's build something amazing together!
